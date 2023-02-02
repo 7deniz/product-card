@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  background-color: #f2ebe3;
+}
+main {
+  display: flex;
+  background-color: #fff;
+  width: 60rem;
+  border-radius: 1rem;
+  margin: auto;
+  margin-top: 10rem;
+  align-items: center;
+  justify-content: center;
+}
+.img {
+  width: 30rem;
+  border-radius: 1rem;
+}
+.second-div {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.perfume {
+  display: flex;
+  font-size: 2.4rem;
+  margin-bottom: 3rem;
+}
+h1 {
+  font-size: 3.4rem;
+  margin-bottom: 3rem;
+}
+.first-par {
+  font-size: 1.4rem;
+  margin-bottom: 3rem;
+}
+.price-div {
+  display: flex;
+  align-items: center;
+}
+.price {
+  color: #3c8067;
+  display: inline;
+  font-size: 3.4rem;
+  margin-top: 3rem;
+}
+.second-price {
+  display: inline;
+  font-size: 1.4rem;
+  margin-left: 2rem;
+  margin-top: 3rem;
+}
+button {
+  background-color: #3c8067;
+  color: #fff;
+  width: 28rem;
+  padding: 2rem 4rem;
+  font-size: 1.8rem;
+  border: none;
+  border-radius: 2rem;
+  margin-top: 2rem;
+}
